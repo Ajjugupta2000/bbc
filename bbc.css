@@ -1,0 +1,203 @@
+
+    body{  
+       margin:0px;
+       padding:0px;
+     }
+   #container1{
+     width:100%;
+     height:39.5px;
+     background-color:black;
+     }
+   
+   .common{
+     border-left:1px solid grey;
+     float:left;
+     
+     color:white;
+     
+     padding:6px 20px 0px 20px;
+     font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+     font-size:13px;
+     font-weight:bold;
+    
+    line-height:34px;
+     }
+    #logo{
+      float:right;
+      
+      }
+    #sign{
+      float:left;
+      }
+    #signtext{ 
+      float:left;
+      }
+    #div1{
+      width:112px;
+      
+      }
+    #div2{
+      width:112px;
+        }
+    #div3{
+      width:200px;
+      padding-top:7px;
+        }
+    #more{
+       width:100px;
+
+       }
+    #dropdown{
+        float:right;
+        }
+    #search{
+       width:142px;
+       height:24px;
+       float:left;
+       
+       }
+    #searchimage{
+       height:22px;
+       float:left;
+       position:relative;
+       top:1px;
+       right:1px;
+       
+       }
+       ::placeholder{
+       color:red;
+       }
+     a{
+     text-decoration:none;
+    color:white;
+    }
+    
+   #container2{
+   background-color:#ca281a;
+   width:100%;
+   height:100px;
+   clear:both;
+   
+   }
+   .common1{
+      color:white;
+      float:left;
+      font-size:13px;
+      font-weight:700;
+      font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+      
+      padding:0px 22px 10px 0px;
+      
+      }
+   #news{
+      color:white;
+      font-size:40px;
+      margin-left:100px;
+      margin-top:10px;
+      font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+      padding-bottom:21px;
+      padding-top:6px;
+      }
+   #tech{ width:850px;
+          height:500px;
+          margin:auto;
+          
+          padding:5px;
+      }
+   #technology{
+         font-size:20px;
+         font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+         
+         font-weight:700;
+         margin-top:10px;
+         color:#464646;
+         text-decoration:underline;
+         text-decoration-color:#b62515;
+           }
+   #facebook{
+             font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+             color:#0077b5;
+             font-size:30px;
+             font-weight:bold;
+             line-height:0px;
+            }	
+   #family{
+      width:200px;
+      height:200px; 
+      font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+     position:relative;
+     top:-20px;
+     float:left;
+     font-size:15px;
+     }
+   #below{
+     width:576px;
+     height:202px;
+     
+     float:left;
+     }
+   .part1{
+     width:200px;
+     height:190px;
+     float:left;
+     border-top:1px solid #ebeaec;
+     
+     padding:8px;
+     border-right:1px solid #ebeaec;
+     }
+   .part2{
+     width:130px;
+     height:100px;
+     float:left;
+     border-top:1px solid #ebeaec;
+     padding-left:8px;
+     }
+   .belowanchor{
+      text-decoration:none;
+      font-size:18px;
+      font-weight:bold;
+      color:black;
+      position:relative;
+      top:3px;
+      line-height:px;
+      }
+   #sidebar{
+      
+      width:250px;
+      height:450px;
+      float:left;
+      border-left:1px solid #e8e7e8;
+      margin-left:6px;
+      position:relative;
+      top:50px;
+      padding-left:10px;
+      }
+   #watch{
+      font-size:24px;
+      position:relative;
+      top:-14px;
+      font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight:normal;
+      color:#6d605e;
+      }
+   .sidevideo{
+      width:245px;
+      height:76px;
+      float:left;
+      
+      position:relative;
+      bottom:18px;
+      
+      }
+   .video{
+      float:left;
+      }
+   .description{
+      font-size:13px;
+      font-weight:800;
+      font-family:ReithSans, Arial, Helvetica, freesans, sans-serif;
+      position:relative;
+      top:-10px;
+      left:4px;
+      }
+    
